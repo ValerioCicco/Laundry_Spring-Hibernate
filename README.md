@@ -14,6 +14,8 @@ Tasks:
 
 Obiettivo raggiunto: L'obiettivo è stato raggiunto con successo, ho creato un'applicazione base per gestire una lavanderia associando gli elementi citati nelle tasks, gestendo la relazione ManyToMany tra Ordine e Servizio.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 Se volessi vedere altri esercizi ti allego i link della Repository di Spring o se volessi vedere altro ti allego il link alla repository Java-JDBC 
 # Link alla Repository di Spring
 
